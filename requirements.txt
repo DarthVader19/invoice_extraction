@@ -1,0 +1,10 @@
+transformers
+torch
+torchvision
+pillow
+pandas
+numpy
+pdf2image
+pytesseract
+datasets
+seqeval
